@@ -1,4 +1,5 @@
 /* ====== GLOBAL ====== */
+@import url('https://fonts.googleapis.com/css2?family=BBH+Sans+Bartle&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
 
 * {
@@ -15,6 +16,7 @@ body {
 
 /* ====== HEADER ====== */
 #main {
+    font-family: "BBH Sans Bartle", sans-serif;;
   font-size: 26px;
   text-align: center;
   padding: 15px 0;

@@ -47,7 +47,7 @@ function Movie() {
 
   return (
     <main>
-      <h1 id="main">TOP 20</h1>
+      <h1 id="main">TOP-10</h1>
       <div id="card-border">
         {movielist.map((movie, index) => (
           <div
