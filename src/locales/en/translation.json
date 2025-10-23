@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "watchlist": "Watchlist",
+    "signIn": "Sign In",
+    "menu": "Menu"
+  },
+  "movies": {
+    "title": "Popular Movies",
+    "loading": "Loading amazing movies...",
+    "error": "Failed to load movies. Please try again later.",
+    "retry": "Retry",
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page"
+  },
+  "banner": {
+    "watchNow": "Watch Now"
+  },
+  "watchlist": {
+    "title": "My Watchlist",
+    "search": "Search movies...",
+    "sortBy": "Sort by:",
+    "sortDefault": "Default",
+    "sortRating": "Rating",
+    "sortPopularity": "Popularity",
+    "rating": "Rating",
+    "popularity": "Popularity",
+    "genre": "Genre",
+    "action": "Action",
+    "remove": "Remove",
+    "noResults": "No movies found. Try adjusting your filters.",
+    "movie": "Movie",
+    "allGenres": "All"
+  },
+  "genres": {
+    "action": "Action",
+    "adventure": "Adventure",
+    "animation": "Animation",
+    "comedy": "Comedy",
+    "crime": "Crime",
+    "documentary": "Documentary",
+    "drama": "Drama",
+    "family": "Family",
+    "fantasy": "Fantasy",
+    "history": "History",
+    "horror": "Horror",
+    "music": "Music",
+    "mystery": "Mystery",
+    "romance": "Romance",
+    "sciFi": "Sci-Fi",
+    "tvMovie": "TV Movie",
+    "thriller": "Thriller",
+    "war": "War",
+    "western": "Western",
+    "unknown": "Unknown"
+  }
+}

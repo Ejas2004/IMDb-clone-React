@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "watchlist": "Liste de suivi",
+    "signIn": "Se connecter",
+    "menu": "Menu"
+  },
+  "movies": {
+    "title": "Films Populaires",
+    "loading": "Chargement de films incroyables...",
+    "error": "Échec du chargement des films. Veuillez réessayer plus tard.",
+    "retry": "Réessayer",
+    "previous": "Précédent",
+    "next": "Suivant",
+    "page": "Page"
+  },
+  "banner": {
+    "watchNow": "Regarder maintenant"
+  },
+  "watchlist": {
+    "title": "Ma Liste de Suivi",
+    "search": "Rechercher des films...",
+    "sortBy": "Trier par:",
+    "sortDefault": "Par défaut",
+    "sortRating": "Note",
+    "sortPopularity": "Popularité",
+    "rating": "Note",
+    "popularity": "Popularité",
+    "genre": "Genre",
+    "action": "Action",
+    "remove": "Supprimer",
+    "noResults": "Aucun film trouvé. Essayez d'ajuster vos filtres.",
+    "movie": "Film",
+    "allGenres": "Tous"
+  },
+  "genres": {
+    "action": "Action",
+    "adventure": "Aventure",
+    "animation": "Animation",
+    "comedy": "Comédie",
+    "crime": "Crime",
+    "documentary": "Documentaire",
+    "drama": "Drame",
+    "family": "Famille",
+    "fantasy": "Fantaisie",
+    "history": "Histoire",
+    "horror": "Horreur",
+    "music": "Musique",
+    "mystery": "Mystère",
+    "romance": "Romance",
+    "sciFi": "Science-Fiction",
+    "tvMovie": "Téléfilm",
+    "thriller": "Thriller",
+    "war": "Guerre",
+    "western": "Western",
+    "unknown": "Inconnu"
+  }
+}

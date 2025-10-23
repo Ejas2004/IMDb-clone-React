@@ -22,3 +22,9 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Documentation
+PROJECT_DOCUMENTATION.md
+QUICK_START.md
+REFACTORING_SUMM.md
+REFACTORING_SUMMARY.md

@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "watchlist": "Watchlist",
+    "signIn": "Anmelden",
+    "menu": "Menü"
+  },
+  "movies": {
+    "title": "Beliebte Filme",
+    "loading": "Lade erstaunliche Filme...",
+    "error": "Filme konnten nicht geladen werden. Bitte versuchen Sie es später erneut.",
+    "retry": "Erneut versuchen",
+    "previous": "Zurück",
+    "next": "Weiter",
+    "page": "Seite"
+  },
+  "banner": {
+    "watchNow": "Jetzt ansehen"
+  },
+  "watchlist": {
+    "title": "Meine Watchlist",
+    "search": "Filme suchen...",
+    "sortBy": "Sortieren nach:",
+    "sortDefault": "Standard",
+    "sortRating": "Bewertung",
+    "sortPopularity": "Beliebtheit",
+    "rating": "Bewertung",
+    "popularity": "Beliebtheit",
+    "genre": "Genre",
+    "action": "Aktion",
+    "remove": "Entfernen",
+    "noResults": "Keine Filme gefunden. Versuchen Sie, Ihre Filter anzupassen.",
+    "movie": "Film",
+    "allGenres": "Alle"
+  },
+  "genres": {
+    "action": "Action",
+    "adventure": "Abenteuer",
+    "animation": "Animation",
+    "comedy": "Komödie",
+    "crime": "Krimi",
+    "documentary": "Dokumentation",
+    "drama": "Drama",
+    "family": "Familie",
+    "fantasy": "Fantasy",
+    "history": "Geschichte",
+    "horror": "Horror",
+    "music": "Musik",
+    "mystery": "Mystery",
+    "romance": "Romanze",
+    "sciFi": "Science-Fiction",
+    "tvMovie": "TV-Film",
+    "thriller": "Thriller",
+    "war": "Krieg",
+    "western": "Western",
+    "unknown": "Unbekannt"
+  }
+}

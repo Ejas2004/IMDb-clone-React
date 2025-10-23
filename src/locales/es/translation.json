@@ -1,0 +1,57 @@
+{
+  "nav": {
+    "watchlist": "Lista de seguimiento",
+    "signIn": "Iniciar sesión",
+    "menu": "Menú"
+  },
+  "movies": {
+    "title": "Películas Populares",
+    "loading": "Cargando películas increíbles...",
+    "error": "Error al cargar películas. Por favor, inténtelo de nuevo más tarde.",
+    "retry": "Reintentar",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "page": "Página"
+  },
+  "banner": {
+    "watchNow": "Ver ahora"
+  },
+  "watchlist": {
+    "title": "Mi Lista de Seguimiento",
+    "search": "Buscar películas...",
+    "sortBy": "Ordenar por:",
+    "sortDefault": "Predeterminado",
+    "sortRating": "Calificación",
+    "sortPopularity": "Popularidad",
+    "rating": "Calificación",
+    "popularity": "Popularidad",
+    "genre": "Género",
+    "action": "Acción",
+    "remove": "Eliminar",
+    "noResults": "No se encontraron películas. Intente ajustar sus filtros.",
+    "movie": "Película",
+    "allGenres": "Todos"
+  },
+  "genres": {
+    "action": "Acción",
+    "adventure": "Aventura",
+    "animation": "Animación",
+    "comedy": "Comedia",
+    "crime": "Crimen",
+    "documentary": "Documental",
+    "drama": "Drama",
+    "family": "Familia",
+    "fantasy": "Fantasía",
+    "history": "Historia",
+    "horror": "Terror",
+    "music": "Música",
+    "mystery": "Misterio",
+    "romance": "Romance",
+    "sciFi": "Ciencia Ficción",
+    "tvMovie": "Película de TV",
+    "thriller": "Suspenso",
+    "war": "Guerra",
+    "western": "Western",
+    "unknown": "Desconocido"
+  }
+}
