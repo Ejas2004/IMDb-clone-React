@@ -17,7 +17,7 @@ function BackButton({ to = "/" }) {
   return (
     <button className="back-button" onClick={handleClick}>
       <ArrowLeft className="back-button-icon" />
-      <span>Back</span>
+      
     </button>
   );
 }
